@@ -10,7 +10,8 @@ int main()
 {
     system("cls");
     int option;
-
+    
+    printf("lopyu");
     do
     {
         menu();
